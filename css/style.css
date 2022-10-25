@@ -7,10 +7,20 @@
     min-height: 100px;
 }
 
-.text{
+
+.text, .menu,
+.portfolio, .about,
+.contact{
+    width: 100%;
     min-height: 40px;
     border: 1px solid black;
 }
+
+.menu{
+    min-height: 40px;
+    border: 1px solid black;
+}
+
 
 .green-screen{
     background-color: green;
