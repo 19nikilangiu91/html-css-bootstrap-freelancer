@@ -13,22 +13,29 @@
 .contact{
     width: 100%;
     min-height: 40px;
+    color: white;
     border: 1px solid black;
 }
 
 .menu{
-    min-height: 40px;
-    border: 1px solid black;
+    /* min-height: 40px; */
+    /* border: 1px solid black; */
 }
 
 
 .green-screen{
-    background-color: green;
+    background-color: #1abc9c;
     /* DEBUG */
     min-height: 250px;
 }
 
-/* .cerchio-container{
+.line{
+    width: 25%;
+    height: 2px;
+    border: 2px solid white;
+}
+
+/* .circle-container{
     display: flex;
     justify-content: center;
 } */
