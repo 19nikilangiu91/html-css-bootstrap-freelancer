@@ -35,6 +35,12 @@
     border: 2px solid white;
 }
 
+.linetwo{
+    width: 25%;
+    height: 2px;
+    border: 2px solid black;
+}
+
 /* .circle-container{
     display: flex;
     justify-content: center;
@@ -48,9 +54,14 @@
     border: 1px solid black;
 } */
 
-a{
+i, a{
     text-decoration: none;
-    color: black;
+    color:white;
+}
+
+.ms_btn{
+    padding: 5px;
+    border: 1px solid white;
 }
 
 .btn-send{
